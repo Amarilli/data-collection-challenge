@@ -1,4 +1,4 @@
-# Is there life of Mars?
+# Is there life on Mars?
 
 ## Part 1: Scrape Titles and Preview Text from Mars News
 
